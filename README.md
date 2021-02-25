@@ -4,10 +4,22 @@
 #### 📨 Mail : cuijamm@icoud.com
 #### 📝 Blog : https://jamm-notnull.tistory.com
 
-## 🖥 Studying Machine Learning
-- Most Interest in ☞ Time series Vision, Audio
+
+
+
+
+
 <br>
 
+## 🖥 Studying Machine Learning
+- Most Interest in ☞ Time series Vision, Audio
+
+
+
+
+
+
+<br>
 
 ### Competitions
 ### Dacon
