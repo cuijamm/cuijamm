@@ -5,9 +5,11 @@
 #### 📝 Blog : https://jamm-notnull.tistory.com
 
 ## 🖥 Studying Machine Learning
-- Most Interest in ☞ Time series Vision, Audio, 
+- Most Interest in ☞ Time series Vision, Audio
+<br>
 
-## Competitions
+
+### Competitions
 ### Dacon
 - [19.12.06] - 퇴근시간 버스 승차인원 예측 경진대회 (49 / 259, Top 18.9%)
 - [20.02.02] - 반도체 박막 두께 분석 경진대회 (101 / 230, Top 43.9%)
