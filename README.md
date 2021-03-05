@@ -13,7 +13,7 @@
 <br>
 
 ## 🖥 Studying Machine Learning
-- Most Interest in ☞ Time series, Vision, Audio, Generative Deep Learning
+- Most Interest in ☞ Forecastinv, Vision, Video, Audio, Generative Deep Learning
 
 
 
