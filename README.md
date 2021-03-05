@@ -1,7 +1,7 @@
 ## Jamm, NOTNULL 📈
 
 #### 🇰🇷 Student at Gachon Univ. 
-#### 🏫 Equipment System & Fire Engineering / Double Major in Department of AI-Software
+#### 🏫 Major : Equipment System & Fire Engineering / Double Major in Department of AI-Software
 #### 📨 Mail : cuijamm@icoud.com
 #### 📝 Blog : https://jamm-notnull.tistory.com
 
