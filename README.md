@@ -2,7 +2,7 @@
 
 #### 🇰🇷 Student at Gachon Univ. 
 #### 🏫 Major : Equipment System & Fire Engineering / Double Major in Department of AI-Software
-#### 📨 Mail : cuijamm@icoud.com
+#### 📨 Mail : cuijamm@icloud.com
 #### 📝 Blog : https://jamm-notnull.tistory.com
 
 
@@ -13,7 +13,7 @@
 <br>
 
 ## 🖥 Studying Machine Learning
-- Most Interest in ☞ Computer Vision, Video, Audio
+- Most Interest in ☞ Computer Vision, Video, Audio, Time Series, Computational Photography
 
 
 
